@@ -8,7 +8,7 @@ public class TIMER : MonoBehaviour
 {
     public static TIMER instance;
     public Text contador;
-    private float tiempo = 10f;
+    private float tiempo = 60f;
     void Start()
     {
         contador.text = "" + tiempo;
