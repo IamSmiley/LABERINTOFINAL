@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CoinController : MonoBehaviour
 {
-    public float timeToAdd = 5f; 
+    public float timeToAdd = 10f; 
 
     private void OnTriggerEnter(Collider other)
     {
