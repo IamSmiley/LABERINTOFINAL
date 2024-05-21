@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GAMEOVER.unity
     guid: 2d2957a9c67932a4791baab91cbdab1a
+  - enabled: 1
+    path: Assets/Scenes/CINEMATICA.unity
+    guid: a71d29abafb69e84b9d4bd032b080843
   - enabled: 0
     path: Assets/Scenes/PRUEBA 2.unity
     guid: 97c049f755af43748a2062db8504fe51
